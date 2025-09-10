@@ -1,0 +1,13 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "outputDirectory": ".next",
+  "env": {
+    "SAHHA_APP_ID": "NqrB0AYlviHruQVbF0Cp5Jch2utzQNwe",
+    "SAHHA_APP_SECRET": "VsU94PUlVPj7LM9dFAZ4sHPRAYFqgtfmG0WuANKLErtQlbFk8LZNLHIJA1AEnbtC", 
+    "SAHHA_CLIENT_ID": "tFcIJ0UjCnV9tL7eyUKeW6s8nhIAkjkW",
+    "SAHHA_CLIENT_SECRET": "uGJFFzeLuifFEHC2y3dgs6J3O2vui3eiptuxlH5D810DmS8NshymlIJUu14nZ3y8"
+  }
+}

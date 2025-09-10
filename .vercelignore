@@ -1,0 +1,12 @@
+# Vercel ignore file
+.git
+.gitignore
+*.log
+.DS_Store
+.env.local
+DEPLOYMENT_*.md
+QUICK_DEPLOY.md
+test-*.js
+debug-*.js
+verify-*.js
+set-*.js
