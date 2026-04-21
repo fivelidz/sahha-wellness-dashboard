@@ -91,3 +91,6 @@ Created for Sahha AI demonstration purposes.
 ## 🤝 Support
 
 For issues or questions, please contact Sahha support or refer to the in-app documentation.
+---
+
+*Built by [fivelidz](https://qalarc.com/projects/) · [qalarc.com](https://qalarc.com)*
